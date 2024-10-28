@@ -1,5 +1,4 @@
 import 'package:dock_flutter/ui/dock_widget.dart';
-import 'package:dock_flutter/ui/dock_widget_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
